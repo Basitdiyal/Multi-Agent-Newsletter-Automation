@@ -6,7 +6,8 @@ This system automatically researches, plans, writes, edits, and prepares a compl
 ---
 
 
-![Uploading News Letter Automation.png…]()
+<img width="1282" height="324" alt="News Letter Automation" src="https://github.com/user-attachments/assets/5fa5a95a-985f-40a5-a71a-c813ed414883" />
+
 
 ## 🧭 Overview
 
